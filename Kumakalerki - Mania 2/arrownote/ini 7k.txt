@@ -1,0 +1,37 @@
+
+NoteImage0: mania-note1
+NoteImage0H: mania-note1
+
+NoteImage1: mania-note2
+NoteImage1H: arrows\mania-note2
+
+NoteImage2: mania-note1
+NoteImage2H: mania-note1
+
+NoteImage3: mania-noteS
+NoteImage3H: mania-noteS
+
+NoteImage4: mania-note1
+NoteImage4H: mania-note1
+
+NoteImage5: mania-note2
+NoteImage5H: arrows\mania-note2
+
+NoteImage6: mania-note1
+NoteImage6H: mania-note1
+
+NoteImage0L: arrownote\LNTail
+NoteImage1L: arrownote\LNTail
+NoteImage2L: arrownote\LNTail
+NoteImage3L: arrownote\LNTail
+NoteImage4L: arrownote\LNTail
+NoteImage5L: arrownote\LNTail
+NoteImage6L: arrownote\LNTail
+
+NoteImage0T: arrownote\LNBody
+NoteImage1T: arrownote\LNBody
+NoteImage2T: arrownote\LNBody
+NoteImage3T: arrownote\LNBody
+NoteImage4T: arrownote\LNBody
+NoteImage5T: arrownote\LNBody
+NoteImage6T: arrownote\LNBody
